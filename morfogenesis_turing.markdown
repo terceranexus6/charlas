@@ -14,7 +14,6 @@ Paula de la Hoz Garrido
 - **2. Concepto de morfogénesis**
   - 2.1 Concepto
   - 2.2 Modelo matemático
-  - 2.3 Validación posterior
 - **3. Implicaciones**
   - 3.1 Implicación química
   - 3.2 Implicación computacional
@@ -27,7 +26,7 @@ Paula de la Hoz Garrido
 
 ###1.1 Alan Turing
 
-**Alan Mathison Turing** era un matemático inglés que nació en 1912. Considerado el padre de la computación moderna, sus investigaciones han sido relevantes para los campos de la informática, matemáticas, filosofía, criptografía y **_química**_. 
+**Alan Mathison Turing** era un matemático inglés que nació en 1912. Considerado el padre de la computación moderna, sus investigaciones han sido relevantes para los campos de la informática, matemáticas, filosofía, criptografía y _**química**_. 
 
 
 
