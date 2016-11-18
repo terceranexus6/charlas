@@ -87,7 +87,9 @@
 
 
   GitHub: [https://github.com/terceranexus6](https://github.com/terceranexus6)
+  
   Linkedin: [http://es.linkedin.com/in/pauladelahozgarrido](http://es.linkedin.com/in/pauladelahozgarrido)
+  
   personal webpage: [http://ohmybits.tumblr.com/](http://ohmybits.tumblr.com/)
 
 
