@@ -69,7 +69,8 @@
   - Java
   - Ruby
   - Assembly and REDCODE
-  - PHP
+  - PHP 
+  - Python
   
   ###Languages
   
