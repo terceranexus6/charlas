@@ -132,11 +132,10 @@ Este par de condiciones garantizan, además, la hiperbolicidad del equilibrio (u
 
 Para simplificar desde ahora en vez de J[f, g](u∗,v∗) escribiremos J. Considerando ahora el cas n homogéneo en el que D1 y D2 son positivas, primero notamos que el equilibrio (u ∗ , v∗ ) determina una solución estacionaria (no cambia con el tiempo) y homogénea (no cambia con x) del sistema (4). 
 
-FUNCION
-
+![extra](https://github.com/terceranexus6/charlas/blob/master/images/extr.png)
 Se puede verificar que para todo (x,t) se satisface la igualdad
 
-FUNCION
+![72](https://github.com/terceranexus6/charlas/blob/master/images/7-2.png)
 
 Y su aproximación lineal a (4) alrededor de la solución estacionaria y homogénea (˜u(x, t), v˜(x, t)) 
 
@@ -144,7 +143,7 @@ Y su aproximación lineal a (4) alrededor de la solución estacionaria y homogé
 
 Notemos que las diferencias u − u ∗ y v − v ∗ miden, para cada pareja (x, t), la desviación o perturbación de u y v, respecto a u ∗ y v ∗ , respectivamente. Introduzcamos una notación para ellas. Sean U y V tales que: 
 
-FUNCION
+![82](https://github.com/terceranexus6/charlas/blob/master/images/8-2.png)
 
 Como Ut = ut , Uxx = uxx, Vt = vt y Vxx = vxx, entonces el sistema (8) expresando en términos de las perturbaciones, es 
 
@@ -186,7 +185,7 @@ Turing considera ahora un anillo formado por tejido (una masa continua) en donde
 
 El matemático concluye que, una vez se ha roto la simetría, pueden originarse hasta seis distribuciones espaciales ondulatorias distintas de morfógenos en el anillo. Cuatro de ´estas se dan en sistemas con dos morfógenos; mientras que las dos restantes, se dan solo si se consideran tres morfógenos. 
 
-IMAGEN
+![fig2](https://github.com/terceranexus6/charlas/blob/master/images/fig2.png)
 
 En esta imagen encontramos el patrón computacional resultado de una simulación numérica realizada por Turing, cumpliéndose las condiciones suficientes para el rompimiento de simetría homogénea. 
 
