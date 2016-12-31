@@ -59,6 +59,8 @@ El hecho de que muchas formas biológicas parecen seguir reglas matemáticas o g
 
 En este párrafo, además de cuestionar la teoría de Darwin, señala la importancia de las matemáticas en el escenario de biología. Turing formulará su teoría química y matemática sobre la morfogénesis basándose en una ideología Thompsoniana. Esta teoría abarca un problema dentro de la biología del desarrollo, las transformaciones que sufre un óvulo fecundado (huevo->mórula->blástula->gástrula) hasta llegar a un individuo formado por  1015 células diferenciadas. 
 
+![fig1](https://github.com/terceranexus6/charlas/blob/master/images/fig1.png)
+
 En su trabajo, Turing describe lo siguiente:
 
 >  … Se sugiere que un sistema de sustancias químicas llamadas morfógenos, reaccionando y difundiéndose a través del tejido, es el adecuado para describir el principal fenómeno de la morfogénesis. Tal sistema, aunque originalmente puede estar bastante homogéneo, más tarde puede desarrollar un patrón o estructura debido a una inestabilidad del equilibrio homogéneo la cual es disparada por una perturbación al azar. 
@@ -88,7 +90,7 @@ La formulación matemática de Turing toma forma de un par de ecuaciones en deri
 
 Para el caso de dos reactivos, cuya concentración en el punto ~r = (x, y) ∈ Ω al tiempo t, la denotamos por u(~r, t) y v(~r, t), respectivamente, aquellas —bajo las premisas 1-5— se escriben así: 
 
-(1)
+![1](https://github.com/terceranexus6/charlas/blob/master/images/1.png)
 
 para todo (~r, t) ∈ Ω × R +, donde ∇2 es el operador laplaciano que, en coordenadas cartesianas, es 
 
@@ -98,33 +100,33 @@ Las difusividades, D1 y D2, son constantes positivas; mientras que las funciones
 
 A fin de completar el problema matemático por estudiar, al sistema (1) se le deben a˜nadir las condiciones iniciales y las condiciones de frontera. Las primeras son 
 
-(2)
+![2](https://github.com/terceranexus6/charlas/blob/master/images/2.png)
 
 donde las funciones u0(~r) y v0(~r) son dadas y representan la distribución inicial (en t = 0) de los morfógenos en Ω. Las condiciones de frontera que consideramos, son de tipo Neumann homogéneas es decir, el flujo de los reactivos es cero en la frontera, ∂Ω, de Ω. Luego 
 
-(3)
+![3](https://github.com/terceranexus6/charlas/blob/master/images/3.png)
 
 La no linealidad del problema (1)-(2)-(3) hace que la búsqueda de soluciones explícitas para él, se convierta solo en un buen deseo y no en una realidad. En este punto, deberán usarse aproximaciones (Turing para ello, además de análisis cualitativo utilizó la primera computadora comercial, la precursora de la Ferranti Mark I, y fue de los primeros científicos en usarla para una investigación matemática) para el problema, o al menos definir cómo debieran ser éstas soluciones aún sin ser conocidas. La nolinealidad y aparición de parámetros con una importante interpretación físico-química, trae dificultades. Sin embargo también aporta una serie de ventajas en las concentraciones u y v. 
 
 A continuación analizamos las restantes (4) y (5) el par de EDP que nos faltaban. 
 
-(4)
+![4](https://github.com/terceranexus6/charlas/blob/master/images/4.png)
 
 Donde t y xx denotan la derivada parcial respecto a t y la segunda derivada parcial respecto a x, respectiamente. As´ı, empezamos considerando el sistema homog´eneo es decir, el que resulta de hacer D1 = D2 = 0. El resultado es el sistema no lineal de ecuaciones diferenciales ordinarias (EDO):
 
-(5)
+![5](https://github.com/terceranexus6/charlas/blob/master/images/5.png)
 
 Aquí el punto sobre u y v denota la derivada respecto al tiempo de estas variables. Supongamos que (5) tiene un punto de equilibrio positivo, (u ∗ , v∗ ), por lo que ´este satisface f(u ∗ , v∗ ) = g(u ∗ , v∗ ) = 0, con u ∗ y v ∗ positivos. El sistema lineal que aproxima a (5) en una vecindad del equilibrio lo define la matriz de Jacobi 
 
-MATRIZ
+![matriz](https://github.com/terceranexus6/charlas/blob/master/images/matrix.png)
 
 donde las derivadas parciales J11 = ∂f/∂u, J12 = ∂f/∂v, J21 = ∂g/∂u y J22 = ∂g/∂v se evalúan en (u ∗ , v∗ ). Luego, el sistema lineal que aproxima a (5) alrededor de (u ∗ , v∗ ), es 
 
-(6)
+![6](https://github.com/terceranexus6/charlas/blob/master/images/6.png)
 
 Las condiciones para que (u ∗ , v∗ ) sea asintóticamente estable localmente (estable ante perturbaciones temporales), se expresan en términos de la traza, tr J[f, g](u∗,v∗) , y del determinante, det J[f, g](u∗,v∗) , de J[f, g](u∗,v∗) . Aquellas son: 
 
-(7)
+![7](https://github.com/terceranexus6/charlas/blob/master/images/7.png)
 
 Este par de condiciones garantizan, además, la hiperbolicidad del equilibrio (u ∗ , v∗ ). Por ello, usando el Teorema de Hartman-Grobman (véase [30]), la dinámica local del sistema (5) es, cualitativamente hablando, la misma que la del sistema lineal (6). 
 
@@ -138,7 +140,7 @@ FUNCION
 
 Y su aproximación lineal a (4) alrededor de la solución estacionaria y homogénea (˜u(x, t), v˜(x, t)) 
 
-(8)
+![8](https://github.com/terceranexus6/charlas/blob/master/images/8.png)
 
 Notemos que las diferencias u − u ∗ y v − v ∗ miden, para cada pareja (x, t), la desviación o perturbación de u y v, respecto a u ∗ y v ∗ , respectivamente. Introduzcamos una notación para ellas. Sean U y V tales que: 
 
@@ -146,19 +148,19 @@ FUNCION
 
 Como Ut = ut , Uxx = uxx, Vt = vt y Vxx = vxx, entonces el sistema (8) expresando en términos de las perturbaciones, es 
 
-(9)
+![9](https://github.com/terceranexus6/charlas/blob/master/images/9.png)
 
 La solución homogénea y estacionaria, (u ∗ , v∗ ), de (4), corresponde a la solución (0, 0) —también homogénea y estacionaria— de (9). Habiendo notado esto, recordemos cu´al es nuestra tarea: queremos averiguar las condiciones bajo las cuales el estado estacionario y homogéneo, (u ∗ , v∗ ), de (4)—equivalentemente (0, 0) para (9)— pierde su estabilidad ante perturbaciones espacio-temporales. Uno puede averiguarlo proponiendo que cada una de las componentes (recuérdese que son las perturbaciones), U y V, de la solución de este sistema se exprese como una combinación lineal infinita de funciones de onda, es decir, de funciones cuya forma es: 
 
-FUNCION
+![ecu1](https://github.com/terceranexus6/charlas/blob/master/images/ecu1.png)
 
 donde λ es desconocida, k es el número de onda e i = √ −1. Si escribimos la función de onda propuesta como 
 
-FUNCION
+![ecu2](https://github.com/terceranexus6/charlas/blob/master/images/ecu2.png)
 
 notamos que ésta consta de dos partes: una que cambia exponencialmente al aumentar t la cual está multiplicada por otra que oscila y es acotada para toda x. Por esta razón, en vez de considerar la suma infinita de funciones de onda, bastaría que un solo término de dicha suma crezca al aumentar t, para que la perturbación (U, V) desestabilice al estado (0, 0) (al estado (u ∗ , v∗ )). Luego, proponemos por solución de (9) a la pareja 
 
-(10)
+![10](https://github.com/terceranexus6/charlas/blob/master/images/10.png)
 
 donde C1 y C2 son constantes desconocidas. Nuestra tarea la hemos llevado a los siguientes términos: investigar las condiciones bajo las cuales las perturbaciones crecen al aumentar t. Aquí están las condiciones suficientes para que se dispare el mecanismo morfogenético de Turing. 
 
