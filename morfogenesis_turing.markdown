@@ -130,7 +130,7 @@ Las condiciones para que (u ∗ , v∗ ) sea asintóticamente estable localmente
 
 Este par de condiciones garantizan, además, la hiperbolicidad del equilibrio (u ∗ , v∗ ). Por ello, usando el Teorema de Hartman-Grobman (véase [30]), la dinámica local del sistema (5) es, cualitativamente hablando, la misma que la del sistema lineal (6). 
 
-Para simplificar desde ahora en vez de J[f, g](u∗,v∗) escribiremos J. Considerando ahora el cas n homogéneo en el que D1 y D2 son positivas, primero notamos que el equilibrio (u ∗ , v∗ ) determina una soluci´on estacionaria (no cambia con el tiempo) y homog´enea (no cambia con x) del sistema (4). 
+Para simplificar desde ahora en vez de J[f, g](u∗,v∗) escribiremos J. Considerando ahora el cas n homogéneo en el que D1 y D2 son positivas, primero notamos que el equilibrio (u ∗ , v∗ ) determina una solución estacionaria (no cambia con el tiempo) y homogénea (no cambia con x) del sistema (4). 
 
 FUNCION
 
