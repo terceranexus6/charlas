@@ -165,8 +165,11 @@ notamos que ésta consta de dos partes: una que cambia exponencialmente al aumen
 donde C1 y C2 son constantes desconocidas. Nuestra tarea la hemos llevado a los siguientes términos: investigar las condiciones bajo las cuales las perturbaciones crecen al aumentar t. Aquí están las condiciones suficientes para que se dispare el mecanismo morfogenético de Turing. 
 
 1) tr J = (J11 + J22) < 0
+
 2) det J = (J11J22 − J21J12) > 0
+
 3) . [(D1J22 + D2J11)] > 0
+
 4) . [(D1J22 + D2J11) 2 − 4D1D2 det J] > 0
 
 Las dos primeras condiciones garantizan la estabilidad del estado estacionario y homogéneo (u ∗ , v∗ ) ante perturbaciones temporales; mientras que las dos siguientes, aseguran que ´este se desestabilice ante perturbaciones espacio-temporales. Al conjunto de parámetros cinéticos y de difusión para los que las condiciones 1-4 se cumplen, se le llama espacio de Turing. 
