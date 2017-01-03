@@ -254,9 +254,13 @@ Turing es conocido principalmente por sus aportaciones en informática y computa
 ##Bibliografía
 
 [Turing theory of morphogenesis validated](http://www.brandeis.edu/now/2014/march/turingpnas.html)
+
 [Validan la teoría de la morfogénesis química de Turing](http://www.abc.es/ciencia/20140311/abci-validan-teoria-turing-anos-201403101617.html)
+
 [¿Cómo consiguieron las cebras sus rayas? Gracias a Turing](http://esmateria.com/2014/08/23/como-consiguieron-las-cebras-sus-rayas-gracias-alan-turing/)
+
 [Aportaciones de Turing a la morfogénesis química](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjs9vDA9KXRAhXKOhQKHeQCAnsQFghQMAc&url=https%3A%2F%2Fdialnet.unirioja.es%2Fdescarga%2Farticulo%2F4104961.pdf&usg=AFQjCNESoODb6udLw6qWIC-AsJun60hn7w&sig2=PRVWtGcleCuY7eqYaRStCw&bvm=bv.142059868,d.d24)
+
 [Sobre la teoría morfogenética de Turing](http://www.miscelaneamatematica.org/Misc56/5605.pdf)
 
 
