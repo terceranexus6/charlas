@@ -189,7 +189,21 @@ El matemático concluye que, una vez se ha roto la simetría, pueden originarse 
 
 En esta imagen encontramos el patrón computacional resultado de una simulación numérica realizada por Turing, cumpliéndose las condiciones suficientes para el rompimiento de simetría homogénea. 
 
-Turing consiguió este patrón realizando lo que se considera una delas primeras simulaciones computacionales. Turing sostiene que una de las cuatro posibilidades podr´ıa ser adecuada para explicar la filotaxia de algunas plantas cuyos reto˜nos o brotes, tengan la misma simetr´ıa que el anillo. También habla de la posibilidad de regenerar partes amputadas.
+Turing consiguió este patrón realizando lo que se considera una delas primeras simulaciones computacionales. Turing sostiene que una de las cuatro posibilidades podría ser adecuada para explicar la filotaxia de algunas plantas cuyos reto˜nos o brotes, tengan la misma simetría que el anillo. También habla de la posibilidad de regenerar partes amputadas.
+
+###Esfera
+
+Turing reflexiona sobre esta forma porque hay organismos cuyos cigotos en el estado de blástula, tienen aproximadamente forma esférica. 
+
+IMAGEN
+
+El matemático inglés considero la superficie de una espera hueca, y sobre él un sistema de reacción-difusión, y variando los ángulos polar y azimutal, de forma que los morfógenos no sólo dependían (como hemos visto antes) del tiempo, si no de dichos ángulos. La ecuación obtenida es:
+
+IMAGEN ECUACION
+
+Turing añade:
+
+> Es probable que la forma de varias estructuras cercanamente esféricas, tales como los esqueletos de las radiolarias, estén íntimamente relacionadas con patrones de tipo armónicos esféricos. Sin embargo, la aplicación más importante de la teoría parece ser a la gastrulación de una blástula.
 
 
 
