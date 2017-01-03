@@ -180,13 +180,19 @@ Las dos primeras condiciones garantizan la estabilidad del estado estacionario y
 
 Un anillo formado por N células muy parecidas. Cada una de estas células intercambian por difusión un material sólo con sus vecinas inmediatas. La difusividad de cada morfógeno se supone constante y el carácter discreto del sistema biológico hace necesaria una versión discreta del sistema (1) en una dimensión. 
 
+![fig2](https://github.com/terceranexus6/charlas/blob/master/images/fig2.png)
+
+a) anillo de células
+b) representación lineal del anillo
+
+
 ###Anillo continuo
 
 Turing considera ahora un anillo formado por tejido (una masa continua) en donde la concentración de los morfógenos depende del tiempo y ángulo. Dependiendo de una  variable λ˜,  las distribuciones posibles para este caso son Estacionaria si la variable es real y Oscilatoria si es un número complejo. 
 
 El matemático concluye que, una vez se ha roto la simetría, pueden originarse hasta seis distribuciones espaciales ondulatorias distintas de morfógenos en el anillo. Cuatro de ´estas se dan en sistemas con dos morfógenos; mientras que las dos restantes, se dan solo si se consideran tres morfógenos. 
 
-![fig2](https://github.com/terceranexus6/charlas/blob/master/images/fig2.png)
+![fig3](https://github.com/terceranexus6/charlas/blob/master/images/fig3.png)
 
 En esta imagen encontramos el patrón computacional resultado de una simulación numérica realizada por Turing, cumpliéndose las condiciones suficientes para el rompimiento de simetría homogénea. 
 
@@ -197,6 +203,8 @@ Turing consiguió este patrón realizando lo que se considera una delas primeras
 Turing reflexiona sobre esta forma porque hay organismos cuyos cigotos en el estado de blástula, tienen aproximadamente forma esférica. 
 
 ![blas](https://github.com/terceranexus6/charlas/blob/master/images/blast.png)
+
+En la imagen apreciamos la blástula de un anfibio.
 
 El matemático inglés considero la superficie de una espera hueca, y sobre él un sistema de reacción-difusión, y variando los ángulos polar y azimutal, de forma que los morfógenos no sólo dependían (como hemos visto antes) del tiempo, si no de dichos ángulos. La ecuación obtenida es:
 
