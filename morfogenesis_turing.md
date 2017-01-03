@@ -195,11 +195,11 @@ Turing consiguió este patrón realizando lo que se considera una delas primeras
 
 Turing reflexiona sobre esta forma porque hay organismos cuyos cigotos en el estado de blástula, tienen aproximadamente forma esférica. 
 
-IMAGEN
+![blas](https://github.com/terceranexus6/charlas/blob/master/images/blast.png)
 
 El matemático inglés considero la superficie de una espera hueca, y sobre él un sistema de reacción-difusión, y variando los ángulos polar y azimutal, de forma que los morfógenos no sólo dependían (como hemos visto antes) del tiempo, si no de dichos ángulos. La ecuación obtenida es:
 
-IMAGEN ECUACION
+![ecublas](https://github.com/terceranexus6/charlas/blob/master/images/ecublas.png)
 
 Turing añade:
 
