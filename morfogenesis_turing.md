@@ -40,7 +40,10 @@ En el campo de la inteligencia artificial, aportó un gran avance que sirvió de
 
 ### Infancia y juventud
 
-*************************** por completar ** 
+Alan Turing no fue un niño fácil. Desde joven, estaba contrariado con el sistema educativo, y esto le generó varios roces con profesores a lo largo de su vida académica. Su interés por las matemáticas resaltaba desde pequeño, sin embargo no obtenía grandes resultados en otras áreas. No le falta, sin embargo, interés, de hecho existe una anécdota en la que Turing recorre en bici una larga distancia para llegar hasta clase, debido a una huelga en el transporte, y que haría que el joven saliera en los periódicos. 
+
+Su forma de ser también era errática y algo extravagante, lo cual preocupaba a su madre. En un dibujo de ésta puede apreciarse al joven Turing, de niño, observando algunas flores mientras otros niños juegan al fútbol. Me parecía interesante nombrar este detalle, pues desde entonces se aprecia como el matemático se interesaba por la geometría de la naturaleza, detalle relevante para el tema que nos atañe en este trabajo. 
+
 
 ###1.2 Validación de una teoría
 
@@ -237,6 +240,24 @@ Apuntan al uso de simulaciones por “computadoras” tremendamente básicas, pe
 Turing es conocido principalmente por sus aportaciones en informática y computación, principalmente en su estudio sobre la inteligencia artificial. Sin embargo el investigador demostró que a través de las matemáticas se pueden abordar diferentes disciplinas, no sólo la lógica o la computación, si no la biología o la química, entre otros. Desde joven mostró interés por la presencia de la geometría y las matemáticas en lo que le rodeaba, y esta cualidad definió su futuro académico y asentó las bases de muchas investigaciones y avances en la actualidad.
 
 
+##Glosario
+
+**Mórula.** Estadio del desarrollo del embrión de un animal. La mórula es el resultado de una serie de divisiones celulares mediante las cuales el huevo se transforma en un cuerpo multicelular cuyos componentes son “prácticamente idénticos”.
+
+**Blástula.** Una vez que el proceso de división celular culmina formándose la mçorula, las células se desplazan hacia la periferia del huevo dejando en el interior una cavidad llena de líquido. A este estadio de desarrollo, se la llama blástula.
+
+**Filotaxia decusada.** Es un tipo de disposición de las hojas a lo largo del tallo de una planta en la que éstas aparecen por pares
+(cada una, es opuesta a la otra) a partir de un mismo nodo, pero la orientación que tiene cada par, es diferente. Una posibilidad es que cada par esté rotado 90 grados respecto al anterior.
+
+**Morfógeno.**Es una sustancia que gobierna el patrón del desarrollo tisular y, en particular, las posiciones de varios tipos de células especializadas dentro de un tejido.
+
+##Bibliografía
+
+[Turing theory of morphogenesis validated](http://www.brandeis.edu/now/2014/march/turingpnas.html)
+[Validan la teoría de la morfogénesis química de Turing](http://www.abc.es/ciencia/20140311/abci-validan-teoria-turing-anos-201403101617.html)
+[¿Cómo consiguieron las cebras sus rayas? Gracias a Turing](http://esmateria.com/2014/08/23/como-consiguieron-las-cebras-sus-rayas-gracias-alan-turing/)
+[Aportaciones de Turing a la morfogénesis química](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjs9vDA9KXRAhXKOhQKHeQCAnsQFghQMAc&url=https%3A%2F%2Fdialnet.unirioja.es%2Fdescarga%2Farticulo%2F4104961.pdf&usg=AFQjCNESoODb6udLw6qWIC-AsJun60hn7w&sig2=PRVWtGcleCuY7eqYaRStCw&bvm=bv.142059868,d.d24)
+[Sobre la teoría morfogenética de Turing](http://www.miscelaneamatematica.org/Misc56/5605.pdf)
 
 
 
@@ -265,8 +286,9 @@ Turing es conocido principalmente por sus aportaciones en informática y computa
 
 
 
-http://www.brandeis.edu/now/2014/march/turingpnas.html
-http://www.abc.es/ciencia/20140311/abci-validan-teoria-turing-anos-201403101617.html
+
+
+
 
 
 
