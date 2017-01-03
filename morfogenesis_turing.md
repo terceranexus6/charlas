@@ -17,9 +17,10 @@ Paula de la Hoz Garrido
   - 2.3 Casos
 - **3. Implicaciones**
   - 3.1 Implicación química
-  - 3.2 Implicación computacional
-  - 3.3 Implicación filosófica
-- **Notas**
+  - 3.2 Implicación matemática
+  - 3.3 Implicación computacional
+- **4. Conclusión**
+- **Glosario**
 - **Bibliografía**
 
 
@@ -204,6 +205,28 @@ El matemático inglés considero la superficie de una espera hueca, y sobre él 
 Turing añade:
 
 > Es probable que la forma de varias estructuras cercanamente esféricas, tales como los esqueletos de las radiolarias, estén íntimamente relacionadas con patrones de tipo armónicos esféricos. Sin embargo, la aplicación más importante de la teoría parece ser a la gastrulación de una blástula.
+
+## 3. Implicaciones
+
+El estudio de  Alan Turing sobre la morfogénesis tiene implicaciones en varios campos, aunque principalmente sea sobre la química y la biología. Aunque el investigador trabajaba principalmente sobre las matemáticas, este estudio demostraba la implicación de las matemáticas en otros campos, y  su influencia en la naturaleza. 
+
+###3.1 Implicaciones químicas y biológicas
+
+Estas implicaciones (principalmente expuestas en este trabajo) son claras. Puede analizarse (o incluso, simular) las variaciones en el estado de desarrollo de un óvulo fecundado y de qué dependen, a través de un análisis matemático. Como hemos mencionado antes (1.2 Validación de una teoría) sus investigaciones fueron admitidas el pasado año, cuando a través de experimentos se demostró su validez.
+
+###3.2 Implicaciones matemáticas
+
+Se sustentan en el papel de ésta disciplina en la naturaleza. Podríamos igualmente mencionar la aparición del números de Fibonacci (tema que también interesaba al matemático inglés) en diferentes estrusturas. Turing aborda desde una perspectiva matemática el problema de la filoxtasia, extendiendo y complementando trabajos al respecto menos exhaustivos. Pos así decirlo, Turing aportó una perspectiva matemática amplia de teorñias que no pertenecían a su campo, pero le entusiasmaban, y abrió paso para que las matemáticas surgieran como un recurso más importante en éstas disciplinas.
+
+###3.3 Implicaciones computacionales 
+
+Apuntan al uso de simulaciones por “computadoras” tremendamente básicas, pero eficaces para su propósito. Turing fue de los primeros investigadores en utilizar la tecnología de la computación para simular sus teorías matemáticas, como hemos observado antes en la simulación de las manchas con el computador. En una carta de 1951, escribe:
+
+>Nuestra nueva máquina llegar´a el lunes. Espero hacer algo sobre “embriología química”. En particular, creo poder responder a la cuestión de la aparición de los números de Fibonacci en las piñas de los abetos 
+
+##4. Conclusión
+
+Turing es conocido principalmente por sus aportaciones en informática y computación, principalmente en su estudio sobre la inteligencia artificial. Sin embargo el investigador demostró que a través de las matemáticas se pueden abordar diferentes disciplinas, no sólo la lógica o la computación, si no la biología o la química, entre otros. Desde joven mostró interés por la presencia de la geometría y las matemáticas en lo que le rodeaba, y esta cualidad definió su futuro académico y asentó las bases de muchas investigaciones y avances en la actualidad.
 
 
 
