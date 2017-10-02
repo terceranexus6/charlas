@@ -37,7 +37,7 @@ As developers we also have a certain role in this frame. First of all the knowle
 
 I suggest also using [this page](http://analytics.followthehashtag.com) to get hashtag content, and use [gnuplot](http://lowrank.net/gnuplot/datafile-e.html) to transform this data into graphics for a fast, not so difficult homemade Data analysis.
 
-![](https://github.com/terceranexus6/cosicas/blob/master/images/datatwitter2.jpg)
+![](https://github.com/terceranexus6/cosicas/blob/master/images/datatwitter2.png)
 ![](https://github.com/terceranexus6/cosicas/blob/master/images/datatwitter.jpg)
 
 (last one is created with gnuplot using data from the web of tweets per minute in the range of 10:00-10:30-11:00)
